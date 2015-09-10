@@ -1,0 +1,8 @@
+.vintageousrc
+*.sublime
+*.tmTheme
+Package Control.*
+*.sublime-settings
+*.sublime-commands
+*.sublime-keymap
+ColorPicker

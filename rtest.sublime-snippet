@@ -1,0 +1,13 @@
+<snippet>
+  <content><![CDATA[
+describe "$0" do
+  it "" do
+    # expect
+  end
+end
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>rtest</tabTrigger>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <!-- <scope>source.python</scope> -->
+</snippet>

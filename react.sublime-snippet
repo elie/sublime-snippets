@@ -1,0 +1,10 @@
+<snippet>
+  <content><![CDATA[
+<script src ="http://fb.me/react-0.12.2.js"></script>
+<script src ="http://fb.me/JSXTransformer-0.12.2.js"></script>
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>react</tabTrigger>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <!-- <scope>source.python</scope> -->
+</snippet>
