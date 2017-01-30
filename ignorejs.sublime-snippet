@@ -1,0 +1,15 @@
+<snippet>
+    <content><![CDATA[
+{
+    "folders": [{
+        "path": ".",
+        "folder_exclude_patterns": [".svn", "._d", ".metadata", ".settings"],
+        "file_exclude_patterns": ["*.js.map", "*.js"]
+    }]
+}
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>ignorejs</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <!-- <scope>source.python</scope> -->
+</snippet>

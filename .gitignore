@@ -1,6 +1,9 @@
+SideBarEnhancements
+.SublimeREPLHistory
 .vintageousrc
 *.sublime
 *.tmTheme
+*.crt
 Package Control.*
 *.sublime-settings
 *.sublime-commands
